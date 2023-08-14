@@ -18,3 +18,4 @@ print(c.atributo_c) #6:
 c.metodo() #7:
 # Foi mesmo?
 # Foi mesmo mesmíssimo?
+# Foi tudo ok?
