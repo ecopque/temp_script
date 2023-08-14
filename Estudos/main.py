@@ -16,3 +16,4 @@ print(c.atributo_a) #4:
 print(c.atributo_b) #5:
 print(c.atributo_c) #6:
 c.metodo() #7:
+# Foi?
