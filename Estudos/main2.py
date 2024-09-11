@@ -27,10 +27,11 @@ motor10 = Motor(nome='1.0')
 motor20 = Motor(nome='2.0')
 fab = Fabricante(nome='Volks')
 
-
 fusca.motor10 = motor10
 fusca.motor20 = motor20
 fusca.montadora = fab
 
 print(fusca.nome, fusca.motor10.nome, fusca.montadora.nome)
 print(corolla.nome, motor20.nome)
+
+# https://linktr.ee/edsoncopque
